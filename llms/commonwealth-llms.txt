@@ -1,0 +1,134 @@
+# Common
+
+## Common
+
+- [Welcome to Common](https://docs.common.xyz/commonwealth/readme.md): Common enables AI coordination for communities, contributors, and agents.
+- [How Can I Use Common](https://docs.common.xyz/commonwealth/readme/how-can-i-use-common.md)
+- [Features](https://docs.common.xyz/commonwealth/readme/product-features.md): An overview of platform and protocol features that Common offers.
+- [Whats Next?](https://docs.common.xyz/commonwealth/readme/whats-next.md)
+- [Signing Up](https://docs.common.xyz/commonwealth/account-overview/creating-your-account.md)
+- [Supported Wallets](https://docs.common.xyz/commonwealth/account-overview/creating-your-account/login-with-wallet.md)
+- [Social Login Explained](https://docs.common.xyz/commonwealth/account-overview/creating-your-account/sso-explained.md)
+- [Magic Wallet Private Keys](https://docs.common.xyz/commonwealth/account-overview/creating-your-account/sso-explained/magic-wallet-private-keys.md)
+- [Joining a Community](https://docs.common.xyz/commonwealth/account-overview/creating-your-account/joining-a-community.md)
+- [Connecting a New Address](https://docs.common.xyz/commonwealth/account-overview/creating-your-account/connecting-a-new-address.md)
+- [Mobile Setup](https://docs.common.xyz/commonwealth/account-overview/mobile-setup.md): Common Progressive Web App
+- [Referrals](https://docs.common.xyz/commonwealth/account-overview/referrals.md)
+- [Moonpay Integration](https://docs.common.xyz/commonwealth/account-overview/moonpay-integration.md)
+- [User Trust Levels](https://docs.common.xyz/commonwealth/account-overview/user-trust-levels.md): Trust.
+- [Manage Your Profile](https://docs.common.xyz/commonwealth/account-overview/manage-your-profile.md)
+- [Merge Accounts](https://docs.common.xyz/commonwealth/account-overview/manage-your-profile/merge-accounts.md): How to merge accounts on Common
+- [User Notifications](https://docs.common.xyz/commonwealth/account-overview/manage-your-profile/user-notifications.md): Subscribe to notifications from your favorite communities!
+- [Setting Up In App Notifications](https://docs.common.xyz/commonwealth/account-overview/manage-your-profile/user-notifications/notifications.md)
+- [Checkin In App Notifications](https://docs.common.xyz/commonwealth/account-overview/manage-your-profile/user-notifications/checkin-in-app-notifications.md)
+- [Launchpad](https://docs.common.xyz/commonwealth/launch/launchpad.md): Launchpad native on Common
+- [Launch a Community on Common](https://docs.common.xyz/commonwealth/launch/launch-a-community-on-common.md)
+- [Discourse Import](https://docs.common.xyz/commonwealth/launch/launch-a-community-on-common/discourse-import.md)
+- [Index Ecosytem](https://docs.common.xyz/commonwealth/launch/index-ecosytem.md)
+- [Community Coins](https://docs.common.xyz/commonwealth/launch/community-coins.md)
+- [Custom Domain](https://docs.common.xyz/commonwealth/community-overview/custom-domain.md): Setting up a custom domain averages a 3x increase in participation
+- [Admin Capabilities](https://docs.common.xyz/commonwealth/community-overview/capabilities.md)
+- [Community Profile](https://docs.common.xyz/commonwealth/community-overview/capabilities/manage-community.md)
+- [Stages Explained](https://docs.common.xyz/commonwealth/community-overview/capabilities/manage-community/stages.md)
+- [Integrations](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks.md): Integrations tab under Admin Capabilities
+- [Directory](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/directory.md)
+- [Snapshot](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/snapshot.md)
+- [Webhooks](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/webhooks.md)
+- [Discord](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/discord.md): Invite our Commonbot to your Discord Server
+- [Community Stake](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/enabling-community-stake.md)
+- [Terms of Service](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/terms-of-service.md): Add your Community's terms of service within your community
+- [Connecting an Existing Token to Your Community](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/connecting-an-existing-token-to-your-community.md)
+- [Swaps](https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/connecting-an-existing-token-to-your-community/swaps.md)
+- [Topics](https://docs.common.xyz/commonwealth/community-overview/capabilities/topics.md)
+- [Private Topics](https://docs.common.xyz/commonwealth/community-overview/capabilities/topics/private-topics.md)
+- [Private Topic FAQ](https://docs.common.xyz/commonwealth/community-overview/capabilities/topics/private-topic-faq.md)
+- [Admin + Moderators](https://docs.common.xyz/commonwealth/community-overview/capabilities/admin-+-moderators.md)
+- [Members & Groups](https://docs.common.xyz/commonwealth/community-overview/capabilities/members-and-groups.md): Gating in Common simplifies community social structures and empowers administrators and members.
+- [Creating Groups & Gating](https://docs.common.xyz/commonwealth/community-overview/capabilities/members-and-groups/creating-groups-and-gating.md)
+- [Manging Groups](https://docs.common.xyz/commonwealth/community-overview/capabilities/members-and-groups/creating-groups-and-gating/manging-groups.md)
+- [Viewing Gated Threads](https://docs.common.xyz/commonwealth/community-overview/capabilities/members-and-groups/creating-groups-and-gating/manging-groups/viewing-gated-threads.md)
+- [Allowlist](https://docs.common.xyz/commonwealth/community-overview/capabilities/members-and-groups/allowlist.md)
+- [Contests](https://docs.common.xyz/commonwealth/community-overview/capabilities/contests.md)
+- [Analytics](https://docs.common.xyz/commonwealth/community-overview/capabilities/community-analytics.md)
+- [Community Layout](https://docs.common.xyz/commonwealth/community-overview/community-layout.md)
+- [Forum](https://docs.common.xyz/commonwealth/community-overview/community-layout/forum.md): The Forum is the heart of every community. Members are able to collaborate, discuss key topics, drive community direction and make key decisions.
+- [Side Navigation](https://docs.common.xyz/commonwealth/community-overview/community-layout/side-navigation.md)
+- [Community Best Practices](https://docs.common.xyz/commonwealth/community-overview/community-best-practices.md)
+- [Using Stages](https://docs.common.xyz/commonwealth/community-overview/community-best-practices/using-stages.md)
+- [Organizing Topics & Thresholds](https://docs.common.xyz/commonwealth/community-overview/community-best-practices/organizing-topics-and-thresholds.md)
+- [Pinned Posts](https://docs.common.xyz/commonwealth/community-overview/community-best-practices/pinned-posts.md): Pinned posts help orient community members and guide the governance process.
+- [Moderation](https://docs.common.xyz/commonwealth/moderation.md)
+- [Creating Threads](https://docs.common.xyz/commonwealth/community-overview-1/creating-threads.md)
+- [Thread Interactions](https://docs.common.xyz/commonwealth/community-overview-1/creating-threads/thread-interactions.md)
+- [Thread Collaborators](https://docs.common.xyz/commonwealth/community-overview-1/creating-threads/actions-on-threads.md)
+- [Linking to Threads](https://docs.common.xyz/commonwealth/community-overview-1/creating-threads/linking-proposals-to-threads.md): Here you can learn about all the plug-ins to add context to threads within your community
+- [Common Wallet](https://docs.common.xyz/commonwealth/community-overview-1/common-wallet.md)
+- [Managing Your Wallet](https://docs.common.xyz/commonwealth/community-overview-1/common-wallet/managing-your-wallet.md)
+- [Funding Your Magic Wallet](https://docs.common.xyz/commonwealth/community-overview-1/common-wallet/funding-your-magic-wallet.md)
+- [Adding Funds During Account Creation](https://docs.common.xyz/commonwealth/community-overview-1/common-wallet/funding-your-magic-wallet/adding-funds-during-account-creation.md)
+- [Adding Funds On The Wallet Page](https://docs.common.xyz/commonwealth/community-overview-1/common-wallet/funding-your-magic-wallet/adding-funds-on-the-wallet-page.md)
+- [Gating](https://docs.common.xyz/commonwealth/community-overview-1/gating.md): Here you can learn how to setup Gating/Groups for your community on Common
+- [For Admins](https://docs.common.xyz/commonwealth/community-overview-1/gating/for-admins.md)
+- [For Users](https://docs.common.xyz/commonwealth/community-overview-1/gating/for-users.md): Check whether or not you are in a group
+- [Community Stake](https://docs.common.xyz/commonwealth/community-overview-1/community-stake.md): What is Community Stake?
+- [Owning Community Stake](https://docs.common.xyz/commonwealth/community-overview-1/community-stake/owning-community-stake.md): Acquiring and utilizing your stake
+- [Common Contests](https://docs.common.xyz/commonwealth/community-overview-1/common-contests.md)
+- [Enabling and Running Contests](https://docs.common.xyz/commonwealth/community-overview-1/common-contests/enabling-and-running-contests.md)
+- [Admin FAQs for Contests](https://docs.common.xyz/commonwealth/community-overview-1/common-contests/admin-faqs-for-contests.md)
+- [User FAQs for Contests](https://docs.common.xyz/commonwealth/community-overview-1/common-contests/user-faqs-for-contests.md)
+- [Farcaster Contests](https://docs.common.xyz/commonwealth/community-overview-1/farcaster-contests.md)
+- [Farcaster ContestBot](https://docs.common.xyz/commonwealth/community-overview-1/farcaster-contests/farcaster-contestbot.md)
+- [Governance](https://docs.common.xyz/commonwealth/community-overview-2/governance.md)
+- [Snapshot Bi Directional Integration](https://docs.common.xyz/commonwealth/community-overview-2/governance/snapshot-bi-directional-integration.md)
+- [Off-Chain Governance](https://docs.common.xyz/commonwealth/community-overview-2/governance/snapshot-bi-directional-integration/off-chain-governance.md)
+- [What is Decentralized Governance?](https://docs.common.xyz/commonwealth/community-overview-2/governance/what-is-decentralized-governance.md)
+- [Governance Frameworks](https://docs.common.xyz/commonwealth/community-overview-2/governance/what-is-decentralized-governance/governance-frameworks.md)
+- [Compound Governor](https://docs.common.xyz/commonwealth/community-overview-2/governance/what-is-decentralized-governance/governance-frameworks/compound-governor.md)
+- [Open Zeppelin Governor](https://docs.common.xyz/commonwealth/community-overview-2/governance/what-is-decentralized-governance/governance-frameworks/open-zeppelin-governor.md)
+- [Curve Governance](https://docs.common.xyz/commonwealth/community-overview-2/governance/what-is-decentralized-governance/governance-frameworks/curve-governance.md)
+- [Multisig Governance](https://docs.common.xyz/commonwealth/community-overview-2/governance/what-is-decentralized-governance/governance-frameworks/multisig-governance.md)
+- [Snapshot Governance](https://docs.common.xyz/commonwealth/community-overview-2/governance/what-is-decentralized-governance/governance-frameworks/snapshot-governance.md)
+- [Onchain vs. Off Chain](https://docs.common.xyz/commonwealth/community-overview-2/governance/onchain-vs.-off-chain.md)
+- [Delegating Votes](https://docs.common.xyz/commonwealth/community-overview-2/governance/delegating-votes.md)
+- [Treasury Management](https://docs.common.xyz/commonwealth/community-overview-2/treasury-management.md)
+- [Developers](https://docs.common.xyz/commonwealth/community-overview-3/developers.md)
+- [Common Aura](https://docs.common.xyz/commonwealth/commonaura/commonaura.md): Common Aura
+- [Season 2](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2.md)
+- [Season 2 Week 1](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-1.md)
+- [System Quest 4 | Binance Wallet](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-1/system-quest-4-or-binance-wallet.md)
+- [Quest #99 | Launch Token](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-1/quest-99-or-launch-token.md)
+- [Quest #100 | Token Graduated](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-1/quest-100-or-token-graduated.md)
+- [Quest #102 | Trade Token](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-1/quest-102-or-trade-token.md)
+- [Season 2 Week 2](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-2.md)
+- [Season 2 Week 3](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-3.md)
+- [Season 2 Week 4](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-4.md)
+- [Season 2 Week 5](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-2/season-2-week-5.md)
+- [Season 1](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-1.md)
+- [Week 1](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-1/week-1.md): Discover Common
+- [Week 2](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-1/week-2.md)
+- [Week 3](https://docs.common.xyz/commonwealth/commonaura/commonaura/season-1/week-3.md)
+- [Quest Types](https://docs.common.xyz/commonwealth/commonaura/commonaura/quest-types.md)
+- [Twitter Quests](https://docs.common.xyz/commonwealth/commonaura/commonaura/quest-types/twitter-quests.md)
+- [Commonly Asked Questions](https://docs.common.xyz/commonwealth/commonaura/commonaura/commonly-asked-questions.md): Commonly Asked Questions about Aura
+- [Common Brand Kit](https://docs.common.xyz/commonwealth/community/common-brand-kit.md): Common's Official Brand Kit
+- [Using Thread Templates](https://docs.common.xyz/commonwealth/community/using-thread-templates.md): Templates can be an organized way to discuss specific topics within communities.
+- [Login with Email](https://docs.common.xyz/commonwealth/community/login-with-email.md)
+- [Login with Google](https://docs.common.xyz/commonwealth/community/login-with-google.md)
+- [Login with GitHub](https://docs.common.xyz/commonwealth/community/login-with-github.md)
+- [Getting a Community Made For You](https://docs.common.xyz/commonwealth/community/getting-a-community-made-for-you.md)
+- [Login with Twitter](https://docs.common.xyz/commonwealth/community/login-with-twitter.md)
+- [Creating Your Own Community](https://docs.common.xyz/commonwealth/community/creating-your-own-community.md)
+- [Creating an EVM Community](https://docs.common.xyz/commonwealth/community/creating-your-own-community/creating-an-evm-community.md)
+- [Creating a Cosmos Community](https://docs.common.xyz/commonwealth/community/creating-your-own-community/creating-a-cosmos-community.md)
+- [Creating a Solana Community](https://docs.common.xyz/commonwealth/community/creating-your-own-community/creating-a-solana-community.md)
+- [Creating a Substrate Community](https://docs.common.xyz/commonwealth/community/creating-your-own-community/creating-a-substrate-community.md)
+- [Creating a Sputnik V2 (NEAR) Community](https://docs.common.xyz/commonwealth/community/creating-your-own-community/creating-a-sputnik-v2-near-community.md)
+- [Polling](https://docs.common.xyz/commonwealth/community/polling.md)
+- [Threads](https://docs.common.xyz/commonwealth/community/threads.md)
+- [Protocol Overview](https://docs.common.xyz/commonwealth/protocol/protocol-overview-introduction.md)
+- [Deployments](https://docs.common.xyz/commonwealth/protocol/deployments_docs.md)
+- [Contests](https://docs.common.xyz/commonwealth/protocol/contests_docs.md)
+- [Launchpad](https://docs.common.xyz/commonwealth/protocol/launchpad_docs.md)
+- [Referrals](https://docs.common.xyz/commonwealth/protocol/referral_docs.md)
+- [Polls API Integration Example](https://docs.common.xyz/commonwealth/protocol/poll-integration-example.md)
+- [Common Claims](https://docs.common.xyz/commonwealth/protocol/common-claims.md): Common Claims registration is now open.

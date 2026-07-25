@@ -1,0 +1,43 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/webhooks.md
+spec_type: Webhooks
+name: Common (Commonwealth) community webhooks
+summary: >-
+  Common communities can configure outbound webhooks from the Admin
+  Capabilities > Integrations tab. Webhooks fire on community activity
+  (new threads and proposals, and other admin-selected actions) and POST to
+  a destination URL. Common provides first-party bot/webhook integrations for
+  Discord, Telegram, Slack, and Zapier. Exact per-event payload schemas and
+  signing details are not published in the public docs; API access to build
+  custom integrations is permissioned (contact developers@commonwealth.im).
+configuration:
+  location: Admin Capabilities > Integrations
+  trigger_editing: >-
+    Admins click the settings icon next to a webhook to edit the action(s)
+    that trigger it (e.g. new thread, new proposal).
+documented_triggers:
+- new thread created
+- new proposal / governance activity
+destinations:
+- name: Discord
+  mechanism: Commonbot invited to a Discord server
+  docs: https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/discord.md
+- name: Telegram
+  mechanism: CommonWebhooksBot added to a Telegram group as admin; webhook URL https://api.telegram.org/@<group-id>
+  docs: https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/webhooks.md
+- name: Slack
+  mechanism: Incoming webhook URL
+  docs: https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/webhooks.md
+- name: Zapier
+  mechanism: Webhook trigger into Zapier automations
+  docs: https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/webhooks.md
+related_integrations:
+- name: Snapshot
+  docs: https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/snapshot.md
+- name: Directory
+  docs: https://docs.common.xyz/commonwealth/community-overview/capabilities/webhooks/directory.md
+notes: >-
+  No published AsyncAPI document. Payload field schemas and HMAC signing are
+  not documented publicly, so they are intentionally left uncaptured rather
+  than fabricated.

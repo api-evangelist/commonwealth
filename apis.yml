@@ -1,23 +1,88 @@
 aid: commonwealth
 name: Commonwealth
-description: Commonwealth is a company surfaced as a portfolio company of canaan-partners and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Commonwealth — now operating as Common (common.xyz) — is an onchain community
+  platform for decentralized governance, discussion, and coordination. It gives
+  crypto communities, DAOs, and token projects a single home for forums and
+  threaded discussion, on-chain and off-chain proposals and polls, Snapshot
+  governance, treasury and token tooling, a Launchpad for community coins, and
+  reputation/trust levels. Members authenticate with web3 wallets or social
+  login (Magic), and communities can run custom domains, contests, referrals,
+  and integrations. Common positions itself as enabling "AI coordination for
+  communities, contributors, and agents," and exposes a documented webhook
+  surface (Discord, Telegram, Slack, Zapier) plus a permissioned developer API
+  for building new front-ends against community content and the permissionless
+  Common Protocol smart contracts. Commonwealth is a portfolio company of Canaan
+  Partners.
 url: https://raw.githubusercontent.com/api-evangelist/commonwealth/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
+x-aka: Common
 x-backed-by:
 - canaan-partners
-x-tier: stub
+x-tier: enriched
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://common.xyz/brand_assets/common-white.png
 tags:
 - Company
+- Web3
+- Governance
+- DAO
+- Blockchain
+- Onchain Communities
+- Forums
+- Launchpad
+- Coordination
+- Crypto
 apis: []
+common:
+- type: DomainSecurity
+  url: security/commonwealth-domain-security.yml
+- type: Website
+  url: https://common.xyz/
+- type: DeveloperPortal
+  url: https://docs.common.xyz/commonwealth/community-overview-3/developers.md
+- type: Documentation
+  url: https://docs.common.xyz/commonwealth/
+- type: GettingStarted
+  url: https://docs.common.xyz/commonwealth/readme/how-can-i-use-common.md
+- type: Blog
+  url: https://blog.common.xyz/
+- type: GitHubOrganization
+  url: https://github.com/hicommonwealth
+- type: SignUp
+  url: https://common.xyz/
+- type: Support
+  url: https://docs.common.xyz/commonwealth/community-overview-3/developers.md
+- type: LLMsTxt
+  url: llms/commonwealth-llms.txt
+- type: Webhooks
+  url: asyncapi/commonwealth-webhooks.yml
+- type: VulnerabilityDisclosure
+  url: security/commonwealth-vulnerability-disclosure.yml
+- type: Security
+  url: https://docs.common.xyz/commonwealth/community-overview-3/developers.md
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
